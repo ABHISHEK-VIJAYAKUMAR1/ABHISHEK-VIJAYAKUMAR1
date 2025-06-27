@@ -3,9 +3,11 @@
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/abhishek._._._) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/abhishek-vijayakumar-822274330) 
 <!-- Snake Game Repo View -->
 
-<div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
-</div>
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/shinojeattath/shinojeattath/output/snake.svg" alt="Snake animation" />
+
 
 
 # 💻 Tech Stack:
