@@ -16,10 +16,6 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=ABHISHEK-VIJAYAKUMAR1&theme=shadow_green&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ABHISHEK-VIJAYAKUMAR1&theme=shadow_green&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=ABHISHEK-VIJAYAKUMAR1&theme=dracula&no-frame=true&no-bg=true&margin-w=4)
-
-
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=ABHISHEK-VIJAYAKUMAR1&limit=5&theme=shadow_green&combine_all_yearly_contributions=true)
 
