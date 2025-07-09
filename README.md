@@ -9,9 +9,10 @@
 <br clear="both">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/ABHISHEK-VIJAYAKUMAR1/ABHISHEK-VIJAYAKUMAR1/blob/output/dist/github-contribution-grid-snake-dark.svg?palette=github-dark" />
-  <img alt="Snake animation" src="https://github.com/dist/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ABHISHEK-VIJAYAKUMAR1/ABHISHEK-VIJAYAKUMAR1/output/github-contribution-grid-snake-dark.svg" />
+  <img alt="GitHub Snake" src="https://raw.githubusercontent.com/ABHISHEK-VIJAYAKUMAR1/ABHISHEK-VIJAYAKUMAR1/output/github-contribution-grid-snake.svg" />
 </picture>
+
 
 
 # 💻 Tech Stack:
