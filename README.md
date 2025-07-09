@@ -8,7 +8,7 @@
 
 <br clear="both">
 
-<img src="https://github.com/ABHISHEK-VIJAYAKUMAR1/ABHISHEK-VIJAYAKUMAR1/blob/output/dist/github-contribution-grid-snake.svg" alt="Snake animation" />
+<img src="https://github.com/ABHISHEK-VIJAYAKUMAR1/ABHISHEK-VIJAYAKUMAR1/blob/main/dist/github-contribution-grid-snake.svg" alt="Snake animation" />
 
 
 
