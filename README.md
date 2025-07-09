@@ -8,8 +8,10 @@
 
 <br clear="both">
 
-<img src="https://github.com/ABHISHEK-VIJAYAKUMAR1/ABHISHEK-VIJAYAKUMAR1/blob/main/dist/github-contribution-grid-snake.svg" alt="Snake animation" />
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/ABHISHEK-VIJAYAKUMAR1/ABHISHEK-VIJAYAKUMAR1/blob/output/dist/github-contribution-grid-snake-dark.svg?palette=github-dark" />
+  <img alt="Snake animation" src="https://github.com/ABHISHEK-VIJAYAKUMAR1/ABHISHEK-VIJAYAKUMAR1/blob/main/dist/github-contribution-grid-snake.svg" />
+</picture>
 
 
 # 💻 Tech Stack:
